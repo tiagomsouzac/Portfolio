@@ -32,9 +32,6 @@ body.escuro {
   --fundo-card: #444444;
 }
 
-/* body {
-} */
-
 header {
   background-color: var(--destaque);
   color: var(--texto);
